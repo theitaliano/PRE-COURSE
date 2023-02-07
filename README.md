@@ -1,2 +1,1 @@
-# PRE-COURSE
-ES UN REPOSITORIO PARA PRACTICAR
+ahora quiero que tenga esta informacion
